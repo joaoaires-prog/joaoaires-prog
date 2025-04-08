@@ -69,7 +69,7 @@ Me chamo João Victor Aires Mnedonça, tenho 19 anos e sou natural de Brasília.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joaoaires-prog&show=stars,commits,prs,issues&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=joaoaires-prog&show=stars,commits,prs,issues,contribs&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
 <img 
