@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo João Victor Aires Mnedonça, tenho 19 anos e sou natural de Brasília. Atualmente, estou cursando Ciência da Computação no CEUB. Sou apaixonado por tecnologia, gosto de sempre estar aprendendo mais sobre a tecnologia e compartilhar meus conhecimentos para os outros.
+Me chamo João Victor Aires Mendonça, tenho 19 anos e sou natural de Brasília. Atualmente, estou cursando Ciência da Computação no CEUB. Sou apaixonado por tecnologia, gosto de sempre estar aprendendo mais sobre a tecnologia e compartilhar meus conhecimentos para os outros.
 
 - 🌱 Estudando Atualmente Front-End Full Stack
 
