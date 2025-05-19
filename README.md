@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 Hello, i´m João Victor Aires 👋
 
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full-Stack`**
 
 Me chamo João Victor Aires Mendonça, tenho 19 anos e sou natural de Brasília. Atualmente, estou cursando Ciência da Computação no CEUB. Sou apaixonado por tecnologia, gosto de sempre estar aprendendo mais sobre a tecnologia e compartilhar meus conhecimentos para os outros.
 
